@@ -1,0 +1,20 @@
+{
+  "orders": [
+    {
+      "id": 1,
+      "product_id": "8913",
+      "customer_name": "Norman",
+      "order_date": "4/10/2023",
+      "order_total": "$95.35",
+      "shipping_address": "Los Angeles, CA 90817"
+    },
+    {
+      "product_id": "8901",
+      "customer_name": "sample name",
+      "order_total": "$901",
+      "shipping_address": "sample address",
+      "order_date": "4/10/2023",
+      "id": 4
+    }
+  ]
+}
